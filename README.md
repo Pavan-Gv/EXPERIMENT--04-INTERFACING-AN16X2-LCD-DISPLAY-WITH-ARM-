@@ -136,6 +136,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed By: G Venkata Pavan Kumar
+Reg No.: 212221240013
+```
+```
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
